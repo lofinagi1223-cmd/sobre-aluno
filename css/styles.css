@@ -221,7 +221,7 @@ section#posts{
   min-height: 100vh;
 }
 
-.test {
+.test  {
   color: aqua;
   display: flex;
   justify-content: center;
