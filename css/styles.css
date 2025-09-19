@@ -221,10 +221,12 @@ section#posts{
   min-height: 100vh;
 }
 
-.test  {
+footer .toma .test  {
   color: aqua;
   display: flex;
   justify-content: center;
   align-self: center;
   padding: 20px;
+  text-decoration: none;
+  text-decoration-line: none;
 }
